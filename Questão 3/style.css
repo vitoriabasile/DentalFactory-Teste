@@ -1,0 +1,33 @@
+.container{
+   background-color: #484848;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   /* width: 1300px;
+   height: 600px; */
+   position:fixed;
+   padding:0;
+   margin:0;
+
+   top:0;
+   left:0;
+
+   width: 100%;
+   height: 100%;
+}
+
+.blue-container{
+    display: flex; 
+    background-color: blue;
+    justify-content: flex-start;
+    align-items: center;
+    width: 55%;
+    height: 60%;
+}
+
+.green-container{
+    display: flex; 
+    background-color: aqua;
+    width: 20%;
+    height: 30%;
+}
